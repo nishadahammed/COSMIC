@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('😈 COSMIC BOT IS  working!')
+            chalk.green.bold('💓 ALIZA BOT IS  working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '```ALIZA BOT IS STARTED```', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '```ALIZA BOT IS STARTED```', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '```ALIZA BOT IS STARTED```', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '```ALIZA BOT IS STARTED```', MessageType.text);
                 }
             }
         }
@@ -383,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄴🅁🅁🄾🅁 🄵🄾🅄🄽🄳!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *ALIZA BOT ERROR FOUND☢️!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf``` ' 
                                     , MessageType.text);
                             }
