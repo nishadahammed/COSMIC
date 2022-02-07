@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/nishadahammed">WHITE-SER</a> to m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ANUSER1/ACE-V1#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nishadahammed/ALIZA)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nishadahammed/Miss-Aliza.git)
 
