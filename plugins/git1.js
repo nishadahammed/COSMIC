@@ -20,7 +20,7 @@ Amalser.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (a
     r_text[4] = "https://imgur.com/lJ3tuLk.jpeg";
     
 
-    var i = Math.floor(02*Math.random())
+    var i = Math.floor(04*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
