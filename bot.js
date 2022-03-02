@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '```ALIZA BOT IS STARTED```', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '```ᴀʟɪᴢᴀ ʙᴏᴛ ɪs sᴛᴀʀᴛᴇᴅ```', MessageType.text);
                 }
             }
         }
@@ -383,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *ALIZA BOT ERROR FOUND☢️!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *ᴀʟɪᴢᴀ ʙᴏᴛ ᴇʀʀᴏʀ ғᴏᴜɴᴅ☢️!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/BnaB7uA4dQF8Qhcac3bGWE``` ' 
                                     , MessageType.text);
                             }
