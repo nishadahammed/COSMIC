@@ -14,10 +14,10 @@ Amalser.addCommand({pattern: 'git', fromMe: false, desc: 'it send bot menu'}, (a
 
     var r_text = new Array ();
     
-    r_text[0] = "https://i.ibb.co/NVhyQ1V/images-16.jpg";
-    r_text[0] = "https://i.imgur.com/kF5SpFM.jpeg";
-    r_text[1] = "https://imgur.com/PgZ4lf7.jpeg";
-    r_text[2] = "https://imgur.com/lJ3tuLk.jpeg";
+    r_text[1] = "https://i.ibb.co/NVhyQ1V/images-16.jpg";
+    r_text[2] = "https://i.imgur.com/kF5SpFM.jpeg";
+    r_text[3] = "https://imgur.com/PgZ4lf7.jpeg";
+    r_text[4] = "https://imgur.com/lJ3tuLk.jpeg";
     
 
     var i = Math.floor(02*Math.random())
