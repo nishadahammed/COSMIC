@@ -20,8 +20,8 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨MISS ALIZA BOT CREATED BY WHITE SER✨️━━━━━⛦
 
 
-𝑯𝒆𝒍𝒍𝒐👋 𝑰 𝒂𝒎 𝑪𝒐𝒔𝒎𝒊𝒄 𝒃𝒐𝒕.
-            *𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒂𝒏𝒔𝒉𝒊𝒅*
+𝑯𝒆𝒍𝒍𝒐👋 𝑰 𝒂𝒎 *𝑨𝒍𝒊𝒛𝒂 𝒃𝒐𝒕*.
+            *𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑾𝒉𝒊𝒕𝒆 𝒔𝒆𝒓*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -120,7 +120,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🛑𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime ALIZA 𝐁𝐎𝐓
+⚠️anime 𝐀𝐋𝐈𝐙𝐀 𝐁𝐎𝐓
 ■□■□■□■□■🄼🄸🅂🅂 🄰🄻🄸🅉🄰□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
